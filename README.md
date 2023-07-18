@@ -1,5 +1,5 @@
 # Astart
-Made this project using html ,css and bootstrap .this is a responsive website 
+Made this project using html ,css and bootstrap .this is a responsive website .
 ![2023-06-21 (1)](https://github.com/Sparsh225/Astart/assets/92641998/4da0160a-37c1-44a7-b9ad-0e5b9ddd736a)
 <br>
 ![2023-06-21 (2)](https://github.com/Sparsh225/Astart/assets/92641998/f67f8c5c-e629-4eb9-843e-dc439ddc95a2)<br>
