@@ -2,9 +2,10 @@
 
 Automated daily search for **Data Engineer** roles in **India / Remote** (2+ years experience) with ATS-friendly, job-description-tailored resumes.
 
-## Latest Run: September 3, 2026
+## Latest Run: September 4, 2026
 
 ### Quick Links
+- [Job List (Sep 4, 2026)](jobs-list-2026-09-04.md)
 - [Job List (Sep 3, 2026)](jobs-list-2026-09-03.md)
 - [Job List (Sep 2, 2026)](jobs-list-2026-09-02.md)
 - [Job List (Sep 1, 2026)](jobs-list-2026-09-01.md)
@@ -39,6 +40,9 @@ Automated daily search for **Data Engineer** roles in **India / Remote** (2+ yea
 | Becton Dickinson (BD) | Junior Data Engineer (2+ yrs, Remote) | [MD](resumes/bd-resume.md) | [PDF](pdfs/bd-resume.pdf) |
 | Ira Commerce | Jr Data Engineer (Spark/Azure, Remote) | [MD](resumes/ira-commerce-resume.md) | [PDF](pdfs/ira-commerce-resume.pdf) |
 | Drivetrain | Software Engineer – Data Engineering (Remote) | [MD](resumes/drivetrain-resume.md) | [PDF](pdfs/drivetrain-resume.pdf) |
+| Wahed Invest | Data Engineer (3–5 yrs, Remote India) | [MD](resumes/wahed-invest-resume.md) | [PDF](pdfs/wahed-invest-resume.pdf) |
+| Plumlogix | DBT Engineer – Databricks (1–3 yrs, Remote) | [MD](resumes/plumlogix-resume.md) | [PDF](pdfs/plumlogix-resume.pdf) |
+| Azandt Group | Data Engineer – Azure Databricks (3+ yrs) | [MD](resumes/azandt-group-resume.md) | [PDF](pdfs/azandt-group-resume.pdf) |
 
 ## Folder Structure
 
