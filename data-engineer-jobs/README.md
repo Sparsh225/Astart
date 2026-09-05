@@ -2,9 +2,10 @@
 
 Automated daily search for **Data Engineer** roles in **India / Remote** (2+ years experience) with ATS-friendly, job-description-tailored resumes.
 
-## Latest Run: September 4, 2026
+## Latest Run: September 5, 2026
 
 ### Quick Links
+- [Job List (Sep 5, 2026)](jobs-list-2026-09-05.md)
 - [Job List (Sep 4, 2026)](jobs-list-2026-09-04.md)
 - [Job List (Sep 3, 2026)](jobs-list-2026-09-03.md)
 - [Job List (Sep 2, 2026)](jobs-list-2026-09-02.md)
@@ -43,6 +44,11 @@ Automated daily search for **Data Engineer** roles in **India / Remote** (2+ yea
 | Wahed Invest | Data Engineer (3–5 yrs, Remote India) | [MD](resumes/wahed-invest-resume.md) | [PDF](pdfs/wahed-invest-resume.pdf) |
 | Plumlogix | DBT Engineer – Databricks (1–3 yrs, Remote) | [MD](resumes/plumlogix-resume.md) | [PDF](pdfs/plumlogix-resume.pdf) |
 | Azandt Group | Data Engineer – Azure Databricks (3+ yrs) | [MD](resumes/azandt-group-resume.md) | [PDF](pdfs/azandt-group-resume.pdf) |
+| Pearson | Data Engineering II (2–4 yrs, Chennai Hybrid) | [MD](resumes/pearson-resume.md) | [PDF](pdfs/pearson-resume.pdf) |
+| Nium | Data Engineer II (2–3 yrs, Mumbai Hybrid) | [MD](resumes/nium-resume.md) | [PDF](pdfs/nium-resume.pdf) |
+| Rearc | Data Engineer (2+ yrs, Bengaluru) | [MD](resumes/rearc-resume.md) | [PDF](pdfs/rearc-resume.pdf) |
+| Dynatron Software | Data Engineer – Remote India (5+ yrs) | [MD](resumes/dynatron-resume.md) | [PDF](pdfs/dynatron-resume.pdf) |
+| PradeepIT | Data Engineer (2+ yrs, Remote India) | [MD](resumes/pradeepit-resume.md) | [PDF](pdfs/pradeepit-resume.pdf) |
 
 ## Folder Structure
 
