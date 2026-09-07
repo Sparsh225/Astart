@@ -2,9 +2,10 @@
 
 Automated daily search for **Data Engineer** roles in **India / Remote** (2+ years experience) with ATS-friendly, job-description-tailored resumes.
 
-## Latest Run: September 6, 2026
+## Latest Run: September 7, 2026
 
 ### Quick Links
+- [Job List (Sep 7, 2026)](jobs-list-2026-09-07.md)
 - [Job List (Sep 6, 2026)](jobs-list-2026-09-06.md)
 - [Job List (Sep 4, 2026)](jobs-list-2026-09-04.md)
 - [Job List (Sep 3, 2026)](jobs-list-2026-09-03.md)
@@ -50,6 +51,9 @@ Automated daily search for **Data Engineer** roles in **India / Remote** (2+ yea
 | Pearson | Data Engineering II (GCP, Chennai Hybrid) | [MD](resumes/pearson-resume.md) | [PDF](pdfs/pearson-resume.pdf) |
 | Nium | Data Engineer II (Redshift/dbt/Kafka) | [MD](resumes/nium-resume.md) | [PDF](pdfs/nium-resume.pdf) |
 | PradeepIT | Data Engineer (ETL Consulting, Remote) | [MD](resumes/pradeepit-resume.md) | [PDF](pdfs/pradeepit-resume.pdf) |
+| Srijan Technologies | Data Engineer (AWS/Azure, Remote) | [MD](resumes/srijan-technologies-resume.md) | [PDF](pdfs/srijan-technologies-resume.pdf) |
+| Forbes Advisor | Data Engineer L2 (API/Airflow/BigQuery) | [MD](resumes/forbes-advisor-resume.md) | [PDF](pdfs/forbes-advisor-resume.pdf) |
+| Beghou Consulting | Data Engineer – Delivery (PySpark/Snowflake) | [MD](resumes/beghou-consulting-resume.md) | [PDF](pdfs/beghou-consulting-resume.pdf) |
 
 ## Folder Structure
 
